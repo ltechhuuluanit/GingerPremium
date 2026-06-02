@@ -1,0 +1,154 @@
+{
+  "home": {
+    "heroTitle": "Nước cốt gừng cao cấp - Tinh tế, chuẩn vị",
+    "heroSubtitle": "Ginger Premium - nước cốt gừng cao cấp, ép lạnh giữ trọn tinh dầu. Tăng sức đề kháng, ấm người và nâng tầm lối sống hiện đại.",
+    "heroImage": "assets/img/hero/hero-1.jpg",
+    "ctaText": "Đặt Hàng Ngay"
+  },
+  "about": {
+    "title": "Nâng tầm gừng Việt thành trải nghiệm sức khỏe sang trọng",
+    "subtitle": "Ginger Premium khởi đầu từ mong muốn tạo ra một sản phẩm ấm áp, tinh tế và chuẩn vị, dành cho người yêu sức khỏe và đòi hỏi thẩm mỹ cao.",
+    "steps": [
+      {
+        "title": "1. Tuyển chọn gừng sạch",
+        "description": "Chúng tôi hợp tác với nông trại đạt chuẩn hữu cơ, thu hoạch gừng đúng độ tuổi để giữ hương vị cay thơm."
+      },
+      {
+        "title": "2. Ép lạnh 24 giờ",
+        "description": "Quy trình ép lạnh chậm giữ trọn tinh dầu, tạo độ ấm sâu và hậu vị tinh tế."
+      },
+      {
+        "title": "3. Đóng chai thủy tinh",
+        "description": "Thiết kế chai cao cấp, tối giản, phù hợp với phong cách sống sang trọng."
+      }
+    ],
+    "founderName": "Nguyễn An",
+    "founderTitle": "người đứng sau Ginger Premium",
+    "founderQuote": "Với hơn 10 năm nghiên cứu dinh dưỡng tự nhiên, An mong muốn tạo ra một thức uống vừa hiệu quả vừa đủ sang trọng để trở thành lựa chọn hàng ngày của người thành thị.",
+    "founderNote": "Ginger Premium không chỉ là nước cốt gừng, mà còn là nghi thức chăm sóc bản thân mỗi sáng."
+  },
+  "products": [
+    {
+      "id": "p1",
+      "name": "Classic Shot",
+      "description": "Gừng tươi nguyên bản, cay nhẹ, dễ uống.",
+      "price": "390.000đ",
+      "image": "assets/img/products/product-1.jpg",
+      "badge": "Hot"
+    },
+    {
+      "id": "p2",
+      "name": "Strong Boost",
+      "description": "Gừng đậm vị, thêm nghệ hữu cơ và chanh vàng.",
+      "price": "450.000đ",
+      "image": "assets/img/products/product-2.jpg",
+      "badge": "Signature"
+    },
+    {
+      "id": "p3",
+      "name": "Signature Mix",
+      "description": "Gừng và mật ong rừng, hậu vị dịu êm.",
+      "price": "520.000đ",
+      "image": "assets/img/products/product-1.jpg",
+      "badge": "Premium"
+    },
+    {
+      "id": "p4",
+      "name": "Honey Warm",
+      "description": "Gừng, quế và mật ong, tăng nhiệt cơ thể.",
+      "price": "480.000đ",
+      "image": "assets/img/products/product-1.jpg",
+      "badge": "Warmth"
+    },
+    {
+      "id": "p5",
+      "name": "Detox Citrus",
+      "description": "Gừng, bưởi và cam vàng cho ngày nhẹ nhàng.",
+      "price": "470.000đ",
+      "image": "assets/img/products/product-2.jpg",
+      "badge": "Detox"
+    },
+    {
+      "id": "p6",
+      "name": "Luxury Gift Box",
+      "description": "Set quà tặng cao cấp cho đối tác và người thân.",
+      "price": "1.590.000đ",
+      "image": "assets/img/products/product-2.jpg",
+      "badge": "Gift"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "b1",
+      "tag": "Detox",
+      "title": "7 ngày detox nhẹ nhàng cùng Ginger Premium",
+      "description": "Hướng dẫn lộ trình detox an toàn, phù hợp với lịch làm việc bận rộn."
+    },
+    {
+      "id": "b2",
+      "tag": "Sức khỏe",
+      "title": "Lợi ích của gừng tươi với hệ miễn dịch",
+      "description": "Phân tích hợp chất gingerol và cách gừng hỗ trợ cơ thể ấm lên mỗi ngày."
+    },
+    {
+      "id": "b3",
+      "tag": "Lifestyle",
+      "title": "Nghi thức buổi sáng của người sống sang",
+      "description": "Cách xây dựng routine 15 phút với ginger shot, thiền và tập thở."
+    },
+    {
+      "id": "b4",
+      "tag": "Dinh dưỡng",
+      "title": "Ginger shot kết hợp thực phẩm nào để tối ưu hiệu quả",
+      "description": "Gợi ý combo gừng với mật ong, chanh và nghệ cho từng mục tiêu."
+    },
+    {
+      "id": "b5",
+      "tag": "Case study",
+      "title": "Khách hàng nói gì sau 30 ngày dùng Ginger Premium",
+      "description": "Tổng hợp phản hồi và trải nghiệm thực tế từ khách hàng thân thiết."
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "tag": "Báo chí",
+      "title": "Kenh14 - Giải mã sức nóng của Ginger Premium",
+      "description": "Bài viết phân tích xu hướng wellness và lý do gừng ép lạnh trở thành lựa chọn mới của giới trẻ."
+    },
+    {
+      "id": "n2",
+      "tag": "Báo chí",
+      "title": "VnExpress - Nước cốt gừng cao cấp cho lối sống hiện đại",
+      "description": "Chia sẻ hành trình phát triển sản phẩm và chiến lược mở rộng thị trường của Ginger Premium."
+    }
+  ],
+  "jobs": [
+    {
+      "id": "j1",
+      "title": "Chuyên viên Digital Marketing",
+      "description": "Phụ trách nội dung, quảng cáo và tối ưu chiến dịch.",
+      "type": "Full-time",
+      "location": "TP. HCM"
+    },
+    {
+      "id": "j2",
+      "title": "Chuyên viên CSKH cao cấp",
+      "description": "Tư vấn khách hàng, chăm sóc trải nghiệm và xử lý feedback.",
+      "type": "Full-time",
+      "location": "Hà Nội"
+    },
+    {
+      "id": "j3",
+      "title": "Nhân viên Vận hành & Giao hàng",
+      "description": "Đảm bảo đơn hàng đúng chuẩn, đúng thời gian.",
+      "type": "Full-time",
+      "location": "TP. HCM"
+    }
+  ],
+  "contacts": {
+    "phone": "0909 888 777",
+    "email": "hello@gingerpremium.vn",
+    "address": "2A2 QL1A, Thới An, Q. 12, TP. HCM"
+  }
+}
